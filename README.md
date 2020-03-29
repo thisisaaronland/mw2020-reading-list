@@ -4,6 +4,8 @@
 
 * [Capacity Planning for Meaning](https://mw20.museweb.net/paper/capacity-planning-for-meaning/)
 
+* [How to Build, When to Buy: Scalable Tactics for Digital Projects and Services](https://mw20.museweb.net/paper/how-to-build-when-to-buy-scalable-tactics-for-digital-projects-and-services/)
+
 ## Chad
 
 ## Aaron
